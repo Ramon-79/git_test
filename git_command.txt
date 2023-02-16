@@ -1,1 +1,2 @@
 git diff <№ commit>
+git revert <№ commit>
