@@ -1,3 +1,4 @@
 git diff <№ commit>
 git revert <№ commit>
 git restore <file>
+git reset --hard
